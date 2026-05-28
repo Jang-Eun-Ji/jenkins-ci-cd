@@ -199,3 +199,4 @@ Jenkins Pipeline 또는 Job 설정에서 아래 항목을 구성 후 사용.
 | Jenkins Tool 이름 | `Maven`, `JDK17` 등 제네릭 명칭으로 치환 |
 | WAS 노드명 | `was-node-001` 로 치환 |
 | 배포 경로 | `/mnt/app-server/...` 형태로 일반화 |
+
